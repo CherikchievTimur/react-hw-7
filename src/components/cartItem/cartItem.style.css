@@ -1,0 +1,21 @@
+.cart-item{
+    display: flex;
+    padding: 10px;
+}
+
+.button-box{
+    width: 20px;
+    margin: 0px 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: bold;
+}
+
+.button-add{
+    background-color: rgb(0, 197, 0);
+}
+
+.button-delete {
+    background-color: tomato;
+}
